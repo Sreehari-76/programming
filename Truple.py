@@ -1,0 +1,13 @@
+tuple = (2,5,88,88,88)
+print(tuple)
+print(tuple[1])
+print(tuple.count(88))
+print(tuple.index(5))
+q = list(tuple)
+print(q)
+a,b,c,d,e = tuple
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
